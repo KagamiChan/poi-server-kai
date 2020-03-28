@@ -1,0 +1,17 @@
+{
+    "editor.tabSize": 2,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "javascript.validate.enable": false,
+    "editor.detectIndentation": false,
+    "eslint.validate": [
+      "javascript",
+      "javascriptreact",
+      "typescript",
+      "typescriptreact",
+    ],
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+  }
